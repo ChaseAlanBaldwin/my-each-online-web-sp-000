@@ -8,4 +8,3 @@ def my_each(array) {|i| puts array[i]}
 
   array
 end
-
